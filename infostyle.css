@@ -1,0 +1,20 @@
+body{
+
+	text-align: center;
+	color: white;
+	font-size: 22px;
+	font-family: 'Playfair Display SC';
+}
+
+p{
+	margin: 40px;
+}
+
+ul{
+
+	text-align: left;
+}
+
+a{
+	color: white;
+}

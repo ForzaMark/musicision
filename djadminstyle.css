@@ -1,0 +1,33 @@
+body{
+
+
+	color: white;
+	text-align: center;
+	font-family: 'Playfair Display SC';
+	font-size: 17px;
+
+}
+
+.inbutt{
+
+	background-color: transparent;
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 13px;
+	height: 20px;
+	width: 130px;
+	border: solid;
+	border-color: white;
+	font-family: 'Playfair Display SC';
+	border-width: 2px;
+	margin-top: 5px;
+	padding: 2px;
+}
+
+#backbutt{
+
+	height: 20px;
+	width: 60px;
+	font-size: 15px;
+	margin-bottom: 15px;
+}

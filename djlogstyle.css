@@ -1,0 +1,55 @@
+body{
+
+	color: white;
+	text-align: center;
+	font-size: 22px;
+}
+
+.inpdes{
+
+	background-color: transparent;
+	background-repeat: no-repeat;
+	border: solid;
+	border-color: white;
+	color: white;
+	height: 50px;
+	width: 250px;
+	font-family: 'Playfair Display SC';
+	font-size: 20px;
+	border-width: 2px;
+	padding-left: 15px;
+}
+
+
+.inbutt{
+
+	background-color: transparent;
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 20px;
+	height: 55px;
+	width: 150px;
+	border: solid;
+	border-color: white;
+	font-family: 'Playfair Display SC';
+	border-width: 2px;
+}
+
+#main{
+
+	margin-top: 50px;
+}
+
+h1{
+
+	margin-top: 100px;
+}
+
+
+#backbutt{
+
+	height: 20px;
+	width: 60px;
+	font-size: 15px;
+	margin-bottom: 15px;
+}
